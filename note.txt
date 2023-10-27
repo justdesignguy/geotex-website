@@ -1,0 +1,57 @@
+- about us color setting
+- mobile view icon color change
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Navbar Image
+- About Us Image
+- Product Image verify 
+    - Open Top (Second => 3rd product image)
+    - Stitching
+    - Swatch Card
+- Footer
+    - Image on click on form input
+
+
+about us dandi
+produc card surface deo
+
+product shadow
+card opacity
+
+
+animation remain
+hosting
